@@ -1,3 +1,5 @@
+This is social media App. In this project i was using React Js, react-redux, react-hooks, and firebase api for all server side operations.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
